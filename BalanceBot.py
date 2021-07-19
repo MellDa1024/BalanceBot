@@ -32,7 +32,6 @@ tierpoint={"I1" : -1, "I2" : -2, "I3" : -3, "I4" : -4,
 "D1" : 20, "D2" : 19, "D3" : 18, "D4" : 17,
 "M1" : 22, "GM1" : 25, "C1" : 27, "UNRANKED" : 0}
 tierlistname=["I1","I2","I3","I4","B1","B2","B3","B4","S1","S2","S3","S4","G1","G2","G3","G4","P1","P2","P3","P4","D1","D2","D3","D4","M1","GM1","C1","UNRANKED"]
-devlist=[665987712922288139]
 summonerlist=[]
 def aavg(a,b,c,d,e):
 	return a+b+c+d+e/5
