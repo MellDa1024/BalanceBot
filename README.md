@@ -23,4 +23,4 @@ Maybe [this](https://discordpy.readthedocs.io/en/latest/intents.html#privileged-
 4. The bot will print "finalteam" with an embed style.
 
 ## When it Worked(The old picture, Erased username for privacy.)
-[Click Here](https://user-images.githubusercontent.com/60955857/126209353-40c11de5-aced-4d0e-816f-844909ea5580.png)
+[Click Here](https://user-images.githubusercontent.com/60955857/126211055-f7da7a70-05ae-45e0-b1f1-8d85611b8005.png)
